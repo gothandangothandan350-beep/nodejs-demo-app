@@ -1,0 +1,12 @@
+
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "My first Node.js CI/CD project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
+
